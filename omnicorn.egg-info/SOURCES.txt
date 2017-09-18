@@ -1,0 +1,4 @@
+omnicorn.egg-info/PKG-INFO
+omnicorn.egg-info/SOURCES.txt
+omnicorn.egg-info/dependency_links.txt
+omnicorn.egg-info/top_level.txt
