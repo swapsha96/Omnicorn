@@ -19,7 +19,7 @@ $ cd omnicorn
 $ pip install -e .
 ```
 
-# Usage
+## Usage
 
 ```
 >>> import omnicorn     
@@ -27,9 +27,17 @@ $ pip install -e .
 {'morphology': [{'filter_type': 'J', 'q': 0.0362, 'delta_magnitude': 0.193028, 'dn': 1.7456, 'magnitude': 25.7746, 'filter_name': 'F125W', 'n': 2.7199, 're': 0.174102, 'dpa': 23.9991, 'dq': 0.18743, 'pa': -40.9379, 'sn': 12.1193, 're_err': 0}, {'filter_type': 'H', 'q': 0.2907, 'delta_magnitude': 0.191205, 'dn': 1.88851, 'magnitude': 25.4836, 'filter_name': 'F160W', 'n': 3.8793, 're': 0.307542, 'dpa': 16.5247, 'dq': 0.139175, 'pa': -64.3636, 'sn': 13.7472, 're_err': 0}], 'meta': [{'objectsReturned': 1}], 'photometry': [{'magnitude': 25.8971107262, 'filter_name': 'F160W'}, {'magnitude': 26.0359892376, 'filter_name': 'F125W'}], 'results': [{'dec': 53.0513382, '3dhst_id': 'aegis.12387.v41', 'flux_radius': 3.304, 'y_centroid': 5286.4, 'ra': 215.20823669, 'x_centroid': 7775.2, 'id': 32505}]}
 ```
 
-# To Do
+## To Do
 
 - [ ] Add more useful functions. E.g. `list_of_fields()`.
 - [ ] Support for Python2
 
 Please let us know if you have suggestions for further improvements or any other ideas.
+
+## Still have questions?
+If you still need some queries answered, please find your answer by talking to following:
+
+- Dr. Ivelina Momcheva (Project Manager and Data Expert)
+- Demitri Muna (Database Expert, Developer and Advisor)
+- Ayush Yadav (API Developer and Web Developer)
+- Swapnil Sharma (API Developer and Web Developer)
